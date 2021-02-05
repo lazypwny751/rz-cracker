@@ -2,7 +2,7 @@
 
 #Version="V1"
 #Author="ByCh4n"
-#Developer="Alvatador"
+#Developer="Boranity"
 
 #Colors
 white="\033[1;37m"
@@ -86,7 +86,7 @@ if [[ $option = "3" ]] ; then
 clear
 echo -e "${blue}Version=V1
 ${red}Author=ByCh4n
-${yellow}Developer=Alvatador"
+${yellow}Developer=Boranity"
 fi
 
 
