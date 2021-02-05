@@ -1,8 +1,8 @@
 #!/bin/bash
 
-#Version="V1"
-#Author="ByCh4n"
-#Developer="Boranity"
+Version="V1"
+Author="ByCh4n"
+Developer="Boranity"
 
 #Colors
 white="\033[1;37m"
@@ -88,5 +88,3 @@ echo -e "${blue}Version=V1
 ${red}Author=ByCh4n
 ${yellow}Developer=Boranity"
 fi
-
-
